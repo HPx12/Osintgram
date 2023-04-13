@@ -12,6 +12,8 @@ Osintgram is a **OSINT** tool on Instagram to collect, analyze, and run reconnai
 <img align="center" src=".img/carbon.png" width="900">
 </p>
 
+HI AM UNDER THE WATER :)
+
 Disclaimer: **FOR EDUCATIONAL PURPOSE ONLY! The contributors do not assume any responsibility for the use of this tool.**
 
 Warning: It is advisable to **not** use your own/primary account when using this tool.
